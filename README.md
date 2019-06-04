@@ -1,1 +1,1 @@
-# ISO-7812
+validates card numbers using luhn algorithm
