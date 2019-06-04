@@ -1,1 +1,1 @@
-#validates card numbers using luhn algorithm
+Validates card numbers using luhn algorithm
